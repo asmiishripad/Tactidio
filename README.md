@@ -1,4 +1,5 @@
-Tactidio is an innovative GUI designed to enable seamless communication and accessibility for individuals who are blind or visually impaired. Built By: Asmii Shripad, Avraneel Ghosh, Khushi Rai
+Tactidio is an innovative GUI designed to enable seamless communication and accessibility for individuals who are blind or visually impaired. Built By: Asmii Shripad, Avraneel Ghosh, Khushi Rai.
+
 Features Include: 
 1. Audio-to-Braille Conversion
 •	Users can upload or record audio files directly within the GUI. The software utilizes advanced speech-to-text technology to transcribe spoken content into a textual format. The text is then converted into Braille, allowing users to read the content using Braille displays or embossers. 
