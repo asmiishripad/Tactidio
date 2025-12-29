@@ -1,4 +1,3 @@
-<img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/7218f48d-6853-4a53-a824-cb89399786c1" /># Tactidio
 Tactidio is an innovative GUI designed to enable seamless communication and accessibility for individuals who are blind or visually impaired. Built By: Asmii Shripad, Avraneel Ghosh, Khushi Rai
 Features Include: 
 1. Audio-to-Braille Conversion
@@ -18,4 +17,4 @@ Features Include:
 
 6. Live Braille Translation 
 •	This setting allows the user to video capture any text with the help of their phone camera. This video feed is passed through a code
-<img width="468" height="451" alt="image" src="https://github.com/user-attachments/assets/ee03232c-5b6c-4d6c-b70c-eb82dd694b44" />
+
